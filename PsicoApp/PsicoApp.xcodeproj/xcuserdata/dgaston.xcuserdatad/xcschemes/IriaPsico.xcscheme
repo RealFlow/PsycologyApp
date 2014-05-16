@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A469926018E7468A005E93DC"
-               BuildableName = "IriaPsico.app"
+               BuildableName = "PsicoApp.app"
                BlueprintName = "PsicoApp"
                ReferencedContainer = "container:PsicoApp.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A469928418E7468A005E93DC"
-               BuildableName = "IriaPsicoTests.xctest"
+               BuildableName = "PsicoAppTests.xctest"
                BlueprintName = "PsicoAppTests"
                ReferencedContainer = "container:PsicoApp.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A469926018E7468A005E93DC"
-            BuildableName = "IriaPsico.app"
+            BuildableName = "PsicoApp.app"
             BlueprintName = "PsicoApp"
             ReferencedContainer = "container:PsicoApp.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A469926018E7468A005E93DC"
-            BuildableName = "IriaPsico.app"
+            BuildableName = "PsicoApp.app"
             BlueprintName = "PsicoApp"
             ReferencedContainer = "container:PsicoApp.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A469926018E7468A005E93DC"
-            BuildableName = "IriaPsico.app"
+            BuildableName = "PsicoApp.app"
             BlueprintName = "PsicoApp"
             ReferencedContainer = "container:PsicoApp.xcodeproj">
          </BuildableReference>
